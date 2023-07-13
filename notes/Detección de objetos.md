@@ -24,6 +24,10 @@ Tipos de planos que puede tener la imagen:
 Con open CV podemos utilizar el filtro de Rudolf E. Kálmán
 
 
+Open Computer Vision 
+https://docs.opencv.org/3.4/dd/d6a/classcv_1_1KalmanFilter.html
+
+
 Recursos:
 
 Libro sobre el filtro Kalman.
