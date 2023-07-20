@@ -1,4 +1,4 @@
-
+	
 Para el objetivo del proyecto es hacer un seguimiento preciso de un objeto que reconozca como bola de papel. Esto para atraparlo.
 
 
@@ -24,7 +24,8 @@ Tipos de planos que puede tener la imagen:
 Con open CV podemos utilizar el filtro de Rudolf E. Kálmán
 
 
-Open Computer Vision 
+
+Open Computer Vision
 https://docs.opencv.org/3.4/dd/d6a/classcv_1_1KalmanFilter.html
 
 
